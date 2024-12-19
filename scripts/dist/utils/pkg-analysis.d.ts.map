@@ -1,0 +1,1 @@
+{"version":3,"file":"pkg-analysis.d.ts","sourceRoot":"","sources":["../../src/utils/pkg-analysis.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,WAAW;IAC1B,WAAW,EAAE,MAAM,CAAA;IACnB,MAAM,EAAE,MAAM,CAAA;IACd,QAAQ,EAAE,OAAO,CAAA;IACjB,OAAO,EAAE,OAAO,CAAA;CACjB;AAED,wBAAgB,UAAU,CAAC,MAAM,EAAE,MAAM,GAAG,WAAW,CAYtD"}

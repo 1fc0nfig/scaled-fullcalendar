@@ -1,0 +1,1 @@
+{"version":3,"file":"recurring-type.d.ts","sourceRoot":"","sources":["../../src/recurring-type.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,QAAQ,MAAM,OAAO,CAAA;AAEjC,OAAO,EACL,aAAa,EAMd,MAAM,6BAA6B,CAAA;AAGpC,UAAU,cAAc;IACtB,QAAQ,EAAE,QAAQ,CAAC,QAAQ,CAAA;IAC3B,mBAAmB,EAAE,OAAO,CAAA;CAC7B;AAED,eAAO,MAAM,aAAa,EAAE,aAAa,CAAC,cAAc,CAoCvD,CAAA"}

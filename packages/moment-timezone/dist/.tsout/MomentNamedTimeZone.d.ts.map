@@ -1,0 +1,1 @@
+{"version":3,"file":"MomentNamedTimeZone.d.ts","sourceRoot":"","sources":["../../src/MomentNamedTimeZone.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAE,MAAM,6BAA6B,CAAA;AAE/D,qBAAa,mBAAoB,SAAQ,iBAAiB;IACxD,cAAc,CAAC,CAAC,EAAE,MAAM,EAAE,GAAG,MAAM;IAInC,gBAAgB,CAAC,EAAE,EAAE,MAAM,GAAG,MAAM,EAAE;CAGvC"}

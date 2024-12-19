@@ -5,7 +5,7 @@ node_modules
 # Generated
 tsconfig.json
 tsconfig.tsbuildinfo
-dist
+# dist
 
 # Monorepo
 .turbo

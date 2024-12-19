@@ -1,0 +1,1 @@
+{"version":3,"file":"Store.d.ts","sourceRoot":"","sources":["../../../src/content-inject/Store.ts"],"names":[],"mappings":"AACA,qBAAa,KAAK,CAAC,KAAK;IACtB,OAAO,CAAC,QAAQ,CAAiC;IACjD,OAAO,CAAC,YAAY,CAAmB;IAEvC,GAAG,CAAC,KAAK,EAAE,KAAK,GAAG,IAAI;IAQvB,SAAS,CAAC,OAAO,EAAE,CAAC,KAAK,EAAE,KAAK,KAAK,IAAI;CAO1C"}

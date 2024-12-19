@@ -1,0 +1,1 @@
+{"version":3,"file":"monorepo-config.d.ts","sourceRoot":"","sources":["../../src/utils/monorepo-config.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,sBAAsB,CAAA;AAErD,wBAAgB,kBAAkB,CAAC,cAAc,EAAE,cAAc,GAAG,MAAM,EAAE,CAS3E;AAED,wBAAgB,gBAAgB,CAAC,IAAI,EAAE,MAAM,EAAE,EAAE,cAAc,EAAE,cAAc,GAAG,MAAM,EAAE,CAezF"}

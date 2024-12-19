@@ -1,0 +1,1 @@
+{"version":3,"file":"json.d.ts","sourceRoot":"","sources":["../src/json.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAA;AACxD,OAAO,EAAE,cAAc,EAAsC,MAAM,4BAA4B,CAAA;AAG/F,yBAA8B,IAAI,EAAE,aAAa,EAAE,GAAG,IAAI,EAAE,MAAM,EAAE,iBAInE;AAED,wBAAgB,iBAAiB,CAC/B,cAAc,EAAE,cAAc,EAC9B,KAAK,EAAE,OAAO,EACd,aAAa,UAAQ,iBActB"}

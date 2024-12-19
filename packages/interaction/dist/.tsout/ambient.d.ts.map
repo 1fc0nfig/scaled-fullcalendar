@@ -1,0 +1,1 @@
+{"version":3,"file":"ambient.d.ts","sourceRoot":"","sources":["../../src/ambient.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,iBAAiB,EAAE,MAAM,sBAAsB,CAAA;AAEzE,KAAK,mBAAmB,GAAG,OAAO,eAAe,CAAA;AACjD,KAAK,qBAAqB,GAAG,OAAO,iBAAiB,CAAA;AAErD,OAAO,QAAQ,6BAA6B,CAAC;IAC3C,UAAU,kBAAmB,SAAQ,mBAAmB;KAAG;IAC3D,UAAU,wBAAyB,SAAQ,qBAAqB;KAAG;CACpE"}

@@ -12,7 +12,7 @@ export default {
     today: 'Nyní',
     year: 'Rok',
     month: 'Měsíc',
-    week: 'Týden',
+    week: 'Uaaaa',
     day: 'Den',
     list: 'Agenda',
   },

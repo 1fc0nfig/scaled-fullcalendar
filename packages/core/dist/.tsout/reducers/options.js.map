@@ -1,0 +1,1 @@
+{"version":3,"file":"options.js","sourceRoot":"","sources":["../../../src/reducers/options.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,4BAA4B,CAAC,sBAAsB,EAAE,MAAc;IACjF,QAAQ,MAAM,CAAC,IAAI,EAAE;QACnB,KAAK,YAAY;YACf,uCAAY,sBAAsB,KAAE,CAAC,MAAM,CAAC,UAAU,CAAC,EAAE,MAAM,CAAC,cAAc,IAAE;QAClF;YACE,OAAO,sBAAsB,CAAA;KAChC;AACH,CAAC"}

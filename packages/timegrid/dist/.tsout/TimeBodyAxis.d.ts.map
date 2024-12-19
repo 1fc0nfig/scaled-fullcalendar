@@ -1,0 +1,1 @@
+{"version":3,"file":"TimeBodyAxis.d.ts","sourceRoot":"","sources":["../../src/TimeBodyAxis.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,6BAA6B,CAAA;AAC3D,OAAO,EAAE,aAAa,EAAE,MAAM,2BAA2B,CAAA;AAEzD,OAAO,EAAE,YAAY,EAAE,MAAM,qBAAqB,CAAA;AAKlD,UAAU,iBAAiB;IACzB,SAAS,EAAE,YAAY,EAAE,CAAA;CAC1B;AAED,qBAAa,YAAa,SAAQ,aAAa,CAAC,iBAAiB,CAAC;IAChE,MAAM;CAOP"}

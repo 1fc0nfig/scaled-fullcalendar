@@ -1,0 +1,1 @@
+{"version":3,"file":"DayTableSlicer.js","sourceRoot":"","sources":["../../src/DayTableSlicer.ts"],"names":[],"mappings":"AAAA,OAAO,EAA4B,MAAM,EAAE,MAAM,6BAA6B,CAAA;AAG9E,MAAM,OAAO,cAAe,SAAQ,MAAiC;IAArE;;QACE,uBAAkB,GAAG,IAAI,CAAA;IAK3B,CAAC;IAHC,UAAU,CAAC,SAAoB,EAAE,aAA4B;QAC3D,OAAO,aAAa,CAAC,UAAU,CAAC,SAAS,CAAC,CAAA;IAC5C,CAAC;CACF"}

@@ -1,0 +1,40 @@
+import { ViewApi } from './ViewApi.js';
+import { EventSourceApi } from './EventSourceApi.js';
+import { EventApi } from './EventApi.js';
+import { CalendarOptions, CalendarListeners, DateInput, DurationInput, DateRangeInput, EventSourceInput, EventInput, FormatterInput } from './structs.js';
+export interface CalendarApi {
+    view: ViewApi;
+    updateSize(): void;
+    setOption<OptionName extends keyof CalendarOptions>(name: OptionName, val: CalendarOptions[OptionName]): void;
+    getOption<OptionName extends keyof CalendarOptions>(name: OptionName): CalendarOptions[OptionName];
+    getAvailableLocaleCodes(): string[];
+    on<ListenerName extends keyof CalendarListeners>(handlerName: ListenerName, handler: CalendarListeners[ListenerName]): void;
+    off<ListenerName extends keyof CalendarListeners>(handlerName: ListenerName, handler: CalendarListeners[ListenerName]): void;
+    trigger<ListenerName extends keyof CalendarListeners>(handlerName: ListenerName, ...args: Parameters<CalendarListeners[ListenerName]>): void;
+    changeView(viewType: string, dateOrRange?: DateRangeInput | DateInput): void;
+    zoomTo(dateMarker: Date, viewType?: string): void;
+    prev(): void;
+    next(): void;
+    prevYear(): void;
+    nextYear(): void;
+    today(): void;
+    gotoDate(zonedDateInput: DateInput): void;
+    incrementDate(deltaInput: DurationInput): void;
+    getDate(): Date;
+    formatDate(d: DateInput, formatter: FormatterInput): string;
+    formatRange(d0: DateInput, d1: DateInput, settings: any): string;
+    formatIso(d: DateInput, omitTime?: boolean): string;
+    select(dateOrObj: DateInput | any, endDate?: DateInput): void;
+    unselect(): void;
+    addEvent(eventInput: EventInput, sourceInput?: EventSourceApi | string | boolean): EventApi | null;
+    getEventById(id: string): EventApi | null;
+    getEvents(): EventApi[];
+    removeAllEvents(): void;
+    getEventSources(): EventSourceApi[];
+    getEventSourceById(id: string): EventSourceApi | null;
+    addEventSource(sourceInput: EventSourceInput): EventSourceApi;
+    removeAllEventSources(): void;
+    refetchEvents(): void;
+    scrollToTime(timeInput: DurationInput): void;
+}
+//# sourceMappingURL=CalendarApi.d.ts.map

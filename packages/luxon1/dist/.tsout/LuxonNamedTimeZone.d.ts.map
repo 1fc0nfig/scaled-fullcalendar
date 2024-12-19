@@ -1,0 +1,1 @@
+{"version":3,"file":"LuxonNamedTimeZone.d.ts","sourceRoot":"","sources":["../../src/LuxonNamedTimeZone.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAE,MAAM,6BAA6B,CAAA;AAG/D,qBAAa,kBAAmB,SAAQ,iBAAiB;IACvD,cAAc,CAAC,CAAC,EAAE,MAAM,EAAE,GAAG,MAAM;IAInC,gBAAgB,CAAC,EAAE,EAAE,MAAM,GAAG,MAAM,EAAE;CAOvC"}

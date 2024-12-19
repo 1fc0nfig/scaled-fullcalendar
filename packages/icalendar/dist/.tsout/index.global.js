@@ -1,0 +1,5 @@
+import { globalPlugins } from '@fullcalendar/core';
+import plugin from './index.js';
+globalPlugins.push(plugin);
+export { plugin as default };
+//# sourceMappingURL=index.global.js.map

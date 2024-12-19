@@ -1,0 +1,1 @@
+{"version":3,"file":"process.js","sourceRoot":"","sources":["../../src/utils/process.ts"],"names":[],"mappings":"AACA,MAAM,UAAU,WAAW;IACzB,OAAO,IAAI,OAAO,CAAO,CAAC,OAAO,EAAE,EAAE;QACnC,OAAO,CAAC,IAAI,CAAC,QAAQ,EAAE,GAAG,EAAE;YAC1B,OAAO,EAAE,CAAA;QACX,CAAC,CAAC,CAAA;IACJ,CAAC,CAAC,CAAA;AACJ,CAAC"}
